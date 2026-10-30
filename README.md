@@ -11,19 +11,19 @@
 ### Giao diện chính
 <img width="820" height="587" alt="image" src="https://github.com/user-attachments/assets/355f2026-1ef9-4301-a57e-f7023f80c9f4" />
 
-###Giao diện phần quản lí/cảnh báo tồn kho
+### Giao diện phần quản lí/cảnh báo tồn kho
 <img width="820" height="587" alt="image" src="https://github.com/user-attachments/assets/6f4ce75a-3e64-4ddf-866f-30bd5a1fea5b" />
 
-###Lỗi khi nhập dữ liệu kho khi chưa có mặt hàng nào
+### Lỗi khi nhập dữ liệu kho khi chưa có mặt hàng nào
 <img width="822" height="588" alt="image" src="https://github.com/user-attachments/assets/b05ad02b-6b13-478a-81b3-67895703266c" />
 
-###Thêm các mặt hàng vào phiếu
+### Thêm các mặt hàng vào phiếu
 <img width="822" height="580" alt="image" src="https://github.com/user-attachments/assets/54b56104-c6e6-491e-9440-8687f815d027" />
 
 ###Xác nhận lưu trữ mặt hàng vào phiếu
 <img width="822" height="587" alt="image" src="https://github.com/user-attachments/assets/9e8a6b4b-bebf-48e8-ae53-306ac31f8a39" />
 
-###HƯỚNG DẪN CÀI ĐẶT VÀ CHẠY DỰ ÁN:
+### HƯỚNG DẪN CÀI ĐẶT VÀ CHẠY DỰ ÁN:
 ### Khởi tạo CSDL:
 
 Mở file Database.sql có sẵn trong thư mục dự án bằng SQL Server Management Studio (SSMS) hoặc Visual Studio.
